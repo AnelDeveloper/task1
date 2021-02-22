@@ -1,0 +1,21 @@
+body {
+    left: 50%;
+    top: 50%;
+    margin-left:  -15%;
+    margin-top: -15%;
+    position: absolute;
+
+}
+
+
+.tableedit, .updateacc { 
+  width: 430px;
+  padding: 5px;
+  margin: 100px auto;
+  background-color: rgb(255, 255, 255);
+  border: 5px solid #aaa;
+  outline: 5px solid rgb(231, 145, 213);
+    
+
+    
+}

@@ -1,0 +1,136 @@
+
+body { 
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    display: block;
+    margin-top: 150px;
+}
+
+
+
+
+#box {
+    width: 420px;
+    height: 550px;
+    background-color: #292929;
+    border-radius: 20px;
+    text-align: center;
+    z-index: 0;
+  }
+  
+  
+  #txt{
+    font-family: system-ui;
+    color: white;
+  }
+  
+  #username {
+    border-radius: 55px;
+    border: 3px #2a3b57 solid;
+    text-align: center;
+    font-family: system-ui;
+    width: 170px;
+    height: 25px;
+    font-size: 1.2em;
+    outline: none;
+    background:transparent;
+    color: white;
+  }
+  
+  #pass {
+    border-radius: 55px;
+    border: 3px #2a3b57 solid;
+    text-align: center;
+    font-family: system-ui;
+    width: 170px;
+    height: 25px;
+    font-size: 1.2em;
+    outline: none;
+    background:transparent;
+    color: white;
+  }
+
+  #e-mail { 
+    border-radius: 55px;
+    border: 3px #2a3b57 solid;
+    text-align: center;
+    font-family: system-ui;
+    width: 170px;
+    height: 25px;
+    font-size: 1.2em;
+    outline: none;
+    background:transparent;
+    color: white;
+  }
+  
+  
+  
+  ::placeholder{
+    color: white;
+  }
+  
+ #username:hover {
+    width: 220px;
+    transition: .5s ease-in-out;
+    border: 3px #50ad67 solid;
+  }
+  #pass:hover {
+    width: 220px;
+    transition: .5s ease-in-out;
+    border: 3px #50ad67 solid;
+  }
+  #e-mail:hover {
+    width: 220px;
+    transition: .5s ease-in-out;
+    border: 3px #50ad67 solid;
+  }
+  
+  body {
+    background-color: #2a3b57;
+  }
+  
+  #pass:focus {
+     width: 220px;
+    border: 3px #50ad67 solid;
+  }
+  
+  #username:focus {
+     width: 220px;
+    border: 3px #50ad67 solid;
+  }
+
+  #e-mail:focus {
+    width: 220px;
+    border: 3px #50ad67 solid;
+
+  }
+  
+  #button {
+    width: 120px;
+    height: 30px;
+    border-radius: 40px;
+    border: 3px #50ad67 solid;
+    background: transparent;
+    color: white;
+    font-family: system-ui;
+    font-size: 1em;
+    outline: none;
+  }
+  
+  #button:hover {
+    cursor: pointer;
+    background: #50ad67;
+    transition: .2s;
+  }
+
+  .loggedin {
+ 
+    text-align: centar;
+    position: relative;
+    margin-top: 220px;
+    margin-left: 100px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+  }

@@ -1,0 +1,22 @@
+body{ 
+
+    background-color: #2a3b57;
+    
+}
+
+
+.table { 
+    background-color: #fafcff;
+    width: 450px;
+    height: 600;
+    display:block;
+    position: relative;
+    border: 3px solid purple;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+
+
+
+}

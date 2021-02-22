@@ -1,0 +1,26 @@
+
+
+
+
+
+#box {
+    width: 420px;
+    height: 550px;
+    background-color: #292929;
+    border-radius: 20px;
+    text-align: center;
+    z-index: 0;
+    left: 57%;
+    top: 70%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+
+}
+
+#txt{
+    font-family: system-ui;
+    color: white;
+    padding-bottom: 20px;
+    
+}
